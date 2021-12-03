@@ -12,10 +12,6 @@ window.onclick = function (event) {
     modal.style.display = 'none';
   }
 };
-// function myFunction() {
-//   var x = document.getElementById('myText').value;
-//   document.getElementById('demo').innerHTML = x);
-// }
 function myFunction() {
-  document.getElementById('form').submit();
+  var x = document.getElementById('myText').value;
 }
