@@ -12,6 +12,13 @@ window.onclick = function (event) {
     modal.style.display = 'none';
   }
 };
-function myFunction() {
+
+function myFunction(x) {
   var x = document.getElementById('myText').value;
+  console.log(x);
 }
+
+// function butt() {
+//   var val = document.getElementById('myText').value;
+//   console.log(val);
+// };
