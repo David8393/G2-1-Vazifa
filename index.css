@@ -53,7 +53,7 @@ cursor: pointer;
   top: 0;
   width: 100%; /* Full width */
   height: 100%; /* Full height */
-  background-color: rgba(0,0,0,0.4); 
+  background-color: rgba(0, 0, 0, 0.705);
 }
 
 /* Modal Content/Box */
@@ -64,6 +64,7 @@ cursor: pointer;
   border: 1px solid #888;
   width: 400px; 
   height: 300px;
+  border-radius: 20px;
 }
 
 /* The Close Button */

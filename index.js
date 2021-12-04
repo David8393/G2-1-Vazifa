@@ -18,7 +18,3 @@ function myFunction(x) {
   console.log(x);
 }
 
-// function butt() {
-//   var val = document.getElementById('myText').value;
-//   console.log(val);
-// };
