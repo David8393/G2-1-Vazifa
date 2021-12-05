@@ -26,6 +26,9 @@
     margin-bottom: 100px;
     cursor: pointer;
 }
+.mainBtn:hover{
+  background: rgba(57, 163, 57, 0.568);
+}
 .header1{
     color: rgb(56, 54, 54);
     font-size: 70px;
