@@ -13,6 +13,7 @@ window.onclick = function (event) {
   }
 };
 
+
 function myFunction(x) {
   var x = document.getElementById('myText').value;
   console.log(x);
